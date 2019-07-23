@@ -1,0 +1,21 @@
+{
+  "name": "wcd",
+  "version": "1.0.0",
+  "description": "wildcard directory changer",
+  "bin": {
+    "wcd": "wcd.cmd"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhpijnacker/wcd.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rhpijnacker/wcd/issues"
+  },
+  "homepage": "https://github.com/rhpijnacker/wcd#readme"
+}
