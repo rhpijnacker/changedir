@@ -12,10 +12,18 @@
     "type": "git",
     "url": "git+https://github.com/rhpijnacker/wcd.git"
   },
-  "author": "",
-  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "wildcard",
+    "cd",
+    "changedir"
+  ],
+  "author": "Ronald Pijnacker",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/rhpijnacker/wcd/issues"
   },
-  "homepage": "https://github.com/rhpijnacker/wcd#readme"
+  "homepage": "https://github.com/rhpijnacker/wcd#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
